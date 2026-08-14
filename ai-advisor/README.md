@@ -1,6 +1,6 @@
 # ai-advisor
 
-<!-- ![ai-advisor demo](./demo.gif) -->
+<img width="800" height="573" alt="demo" src="https://github.com/user-attachments/assets/87feee54-2dfe-42c8-b9a7-a76b22b7c928" />
 
 ## Getting Started
 
