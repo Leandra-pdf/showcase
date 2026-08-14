@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>AI Text Generator</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@500;600;700&family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="page">
+
+        <!-- 1. Hero: title + intro + image -->
+        <header id="hero">
+            <div id="hero-text">
+                <h1>Hello, World! <span class="wave">👋</span></h1>
+                <p id="intro-text">Hi! My name is Leandra, and I'm currently learning HTML, CSS, and JavaScript with Parsity!</p>
+                <p id="toggle-text">I'm currently on a journey to become an AI Engineer, and I'd love your support along the way! With a background in infosec, I'm specifically interested in bridging security and artificial intelligence. Excited to connect, learn, and grow as I dive into this space!</p>
+            </div>
+
+            <div id="hero-art">
+                <img
+                    id="hero-img"
+                    src="https://img.magnific.com/premium-photo/future-visions-ai-purple-black-white_153608-85679.jpg?semt=ais_test_b&w=740&q=80"
+                    alt="Futuristic AI-themed visual in purple, black, and white tones"
+                    width="400"
+                    height="300"
+                    loading="lazy"
+                    onerror="this.closest('#hero-art').classList.add('hero-art--empty'); this.remove();"
+                />
+            </div>
+        </header>
+
+        <!-- 2. Controls -->
+        <section id="controls-section">
+            <button id="bg-btn">🎨 Change Background</button>
+            <button id="toggle-btn">Hide Paragraph</button>
+        </section>
+
+        <!-- 3. AI Chat Feature (main focus, centered) -->
+        <main id="chat-section">
+            <div id="chat-header">
+                <h2>Chat with AI</h2>
+                <button id="clear-btn" title="Clear chat">🗑️ Clear</button>
+            </div>
+            <p id="chat-subtitle">Ask me anything &mdash; powered by Gemini.</p>
+            <div id="chat-window"></div>
+            <div id="chat-input-row">
+                <input type="text" id="content" placeholder="Type a message..."/>
+                <button id="baton">Send</button>
+            </div>
+        </main>
+
+        <!-- 4. Footer -->
+        <footer id="footer-section">
+            <a id="linked" href="https://www.youtube.com/watch?v=hNFM2f4BvAo">Enjoy!</a>
+        </footer>
+
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/9.1.6/marked.min.js"></script>
+    <script src="config.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
