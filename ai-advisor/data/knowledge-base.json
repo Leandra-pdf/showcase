@@ -1,0 +1,119 @@
+[
+	{
+  "id": "james-prigioni-harvest-optimization",
+  "topic": "Maximizing Plant Harvests",
+  "advisor": "James",
+  "keywords": [
+    "harvest",
+    "yield",
+    "fruiting",
+    "flowering",
+    "production"
+  ],
+  "content": "Don't just grow more plants - learn how to get more from the plants you already have. Many plants naturally shift their energy toward producing seeds once they mature, which reduces new growth. By understanding plant cycles and harvesting at the right stage, you can encourage plants to keep producing and dramatically increase your yield without needing more space."
+},
+{
+  "id": "james-prigioni-plant-cycles",
+  "topic": "Understanding Plant Growth Cycles",
+  "advisor": "James",
+  "keywords": [
+    "growth cycles",
+    "pruning",
+    "seed production",
+    "basil",
+    "cucumbers"
+  ],
+  "content": "Learn how plants naturally behave instead of fighting against them. Annual plants are trying to complete their lifecycle by producing seeds, so gardeners can influence production by removing flowers from leafy plants like basil or harvesting fruits like cucumbers before they become overripe. Applied knowledge of plant cycles is what turns an average garden into a productive one."
+},
+{
+  "id": "james-prigioni-succession-planting",
+  "topic": "Succession Planting & Garden Efficiency",
+  "advisor": "James",
+  "keywords": [
+    "succession planting",
+    "timing",
+    "space",
+    "continuous harvest",
+    "production"
+  ],
+  "content": "Maximize your garden by thinking about timing, not just space. Instead of planting everything at once, grow new rounds of crops as older plants finish producing. Succession planting keeps your garden productive throughout the season by ensuring there is always another generation of plants ready to take over."
+},
+{
+  "id": "luke-fertilizing-timing",
+  "topic": "Fertilizer Timing & Plant Needs",
+  "advisor": "Luke",
+  "keywords": [
+    "fertilizer",
+    "timing",
+    "plant health",
+    "nutrients",
+    "growth"
+  ],
+  "content": "Fertilizer is only effective when applied at the right time and for the right reason. Do not fertilize just because you think a plant might need it. Pay attention to signs like slowed growth, yellowing leaves in the middle of the plant, or nutrient deficiencies. Healthy plants that are already producing well do not need unnecessary fertilizer, and overfeeding can waste resources or reduce fruit production."
+},
+{
+  "id": "luke-fertilizer-application-methods",
+  "topic": "Effective Fertilizer Application",
+  "advisor": "Luke",
+  "keywords": [
+    "application",
+    "top dressing",
+    "roots",
+    "seedlings",
+    "soil"
+  ],
+  "content": "How you apply fertilizer matters as much as when you apply it. When planting seedlings, placing fertilizer near the roots helps plants establish faster because they can access nutrients immediately. For established plants, top dressing can work well when nutrients are scratched into the soil and watered in so they reach the root zone instead of being washed away."
+},
+{
+  "id": "luke-avoid-overfertilizing",
+  "topic": "Avoiding Over-Fertilization",
+  "advisor": "Luke",
+  "keywords": [
+    "over-fertilizing",
+    "plant stress",
+    "yield",
+    "patience",
+    "soil"
+  ],
+  "content": "More fertilizer does not always mean better growth. Too many nutrients can create large, healthy-looking plants that produce less food, such as tomatoes with huge leaves but few fruits. Apply fertilizer according to the plant's growth stage, avoid feeding during extreme heat, and give nutrients time to work before adding more."
+},
+{
+  "id": "kevin-epicgardening-garden-location",
+  "topic": "Garden Planning & Location",
+  "advisor": "Kevin",
+  "keywords": [
+    "planning",
+    "sunlight",
+    "location",
+    "garden design",
+    "placement"
+  ],
+  "content": "The success of a garden starts before planting anything. Choose a location based on two key factors: convenience and sunlight. A garden that is close enough to your home will be easier to maintain and harvest from, while maximizing sun exposure gives plants the energy they need to grow. Good design considers how the space will be used throughout the day and season."
+},
+{
+  "id": "kevin-epicgardening-soil-quality",
+  "topic": "Soil Quality & Garden Foundations",
+  "advisor": "Kevin",
+  "keywords": [
+    "soil",
+    "raised beds",
+    "compost",
+    "drainage",
+    "fertility"
+  ],
+  "content": "Invest in your soil because it is the foundation of your entire garden. Good growing soil needs a balance of fertility, drainage, and moisture retention. Instead of focusing only on plants, prioritize creating a healthy environment where roots can access nutrients, water, and air. A strong soil foundation saves time and prevents problems later."
+},
+{
+  "id": "kevin-epicgardening-seed-starting",
+  "topic": "Seed Starting & Growing Strategy",
+  "advisor": "Kevin",
+  "keywords": [
+    "seeds",
+    "seedlings",
+    "transplanting",
+    "timing",
+    "germination"
+  ],
+  "content": "Starting plants from seeds gives you more variety and saves money, but timing matters. Some plants benefit from starting indoors early so they are ready when the growing season begins, while others are better planted directly. Understand each plant's growth timeline, provide the right conditions for germination, and transplant when the seedlings are strong enough."
+}
+]
