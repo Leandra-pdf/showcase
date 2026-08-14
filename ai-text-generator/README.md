@@ -1,6 +1,7 @@
-# ai-text
+# ai-text-generator
 
-<!-- ![ai-text website](./screenshot.png) -->
+<img width="1048" height="759" alt="Screenshot 2026-08-14 at 4 08 08 PM" src="https://github.com/user-attachments/assets/55e917d0-ed1f-4c9f-8ca6-89d06dca41a1" />
+
 
 ## Getting Started
 
